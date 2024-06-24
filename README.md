@@ -1,6 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-
+LendingClubCaeStudy
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,10 +10,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project is to identify/derive various conclusion from the loan dataset from the Bank database.The main objectives are
+--> to derive common factors that are related to default/charged off loan applicants
+
+Helping in identifying these relations helps the bank is risk analytics, that is understand risk customers based on the insights and implement certain actions that will result in improving profit/ reducing loss for eg denying loan to applicants whom the bank think will defualt in future, giving interest ata higher rate of interest etc
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,25 +28,18 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter notebook
+  
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project is done as part of Machine Learning and AI course as part of upgrad course. It's a part of combined group study to explore real world problems on banking domain using data visualisation and exploratory data analysis
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+created by @nikhilv1991 and Yasmin 
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
